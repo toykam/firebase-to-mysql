@@ -1,0 +1,12 @@
+// {
+//   "type": "service_account",
+//   "project_id": "smart-pay-e221a",
+//   "private_key_id": "a8f6052a57afb1739a2e0460347c25d111b781c0",
+//   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSjLcYSBlt5z5T\nebck6yLM3yzk5Z/0N3tY5kttmddA5FjhSy2IBYbTKEAp9uJnOGJVHWP7jjdq3tOQ\n7RLd9hK3fiEWM0+UU/fKej/fLsCGlWhu8oR4hKIZnrtiu1SlRIPbqnfY6oQIhjvH\nS+r10bU0BgFFbpft2ZZ9SLvTr2cPCJNlVPIyAwYFEpkeTRz8jAALg4cDRVje5sHa\ncu0lVEeeTmpl2gXZQZQ0dh+qbV9xzMsyD4+gL13Vd1UytwGXpoUWG/kRP6RzlxT2\nUKUVVbwWk+y+sS7sshaoH9m2KGVUMBS/fMjYWj6qw/pDtbQ9GF2eD9vha8dIWPG/\nPs4xYOH9AgMBAAECggEADz+KHgvQraUu3hhFQ3r08v3hsDUSC7t95x8MjOQ0ktpG\ntpA9fKmbzUyPswpSdLPAaVYe0M/Ioyh+jXMh5+nDir7rcgJmy8D2A9etKwJlhomo\n/cn5/olqfO0COKEE/RAUdZLnqZG4XK6uAx20JzfYBeu+aVMcVSkqLSoYkjjUf6HX\nYWTL0m/ATVO/qonuryKVT0Yx2Zb6S5D6ZY9kUxaGdtfmlxHVKepbxg42Y2FAlrW8\n57NFCIEOHY1BHCo3hASMHhqgxIu1yjU/mxekUSB+WMe7s981k6QzF/5AQlm7p7jN\nqySX9EBc6KhFKXvsdn56jtSI8VXY0OUB3dgvxA4CyQKBgQD7Nx3NXrPgfSaas+PL\nzvsEq4SH3KMaW+bsAoMz+DVeDBdLAyZMuw6+rLznbog7dTrBpBV+NsdLrbXO8r/c\ngVS6vXfzfVt79XJSIk+6dPmcD7lLq/5UwAqdeybtGkGqsRZOWyl/zOLIz437+864\nJ15rkC+DNPevHJkEzDVq3M1WNQKBgQDWj1Hs8oIJfigNqheyqoLd5+r6r4ypd5A6\nPuoGk8/gvvoi9eM+J4rBVdUN6kfEQ20trrUVRFjJZs1eUEpw+lKXmLfue7Ak/cHZ\nnJwuEvJJu4a3lhFW92qo6c1DCb679gSfvDctwshRN+EJy9eB70yVtdh72QfSEPq3\ndwue1lI1qQKBgCHKHREVjt5AFyQx1A8CzRKou0/G5o1SFTJjeCBSX2NB/xQQ3WLu\nuiH9e/8pB9vvfbK0DkwGtDHCsLSgRBw1rR7dAzhWASsgLXtMsCqlNzm9h6/c932Q\nwxzBhs/Xe0OpRBXP/zn4Zfyapj9hdEGi0fln0Gw2gKYmE5LooLq57kiNAoGBAL2E\nmrjQ/EumQ3rOY2BNfIrF76i+p2CJW7wXFl/48AV0qz12M+MSyl07k5VW+01AwY84\nYnsGg+ZiB8Tm5tokQg/ltZHRbyU9f5zX2JxZ3+mA2t4OkAJhSLUqz0QHt5IPHMZ7\nWcHx6z7SPNSKWTFMTjlvBmleqqnClbK4VGtYpAUBAoGAbwqW5fbYFGYEkGSu5nUL\nzd5bUUNVO0krZuIAgWhMi8upgpmWpwckq9pyojYbHuXkkfHdvP5vLtdp8FacMks+\nYdsgqCzZOem/jEfdVIlYQtI8AKMJ3ZjFRDjbmpuvV601vtyh9edFgVMdQgQaWsf0\nHkAmGOIXXwn8ccGyqHG2U1o=\n-----END PRIVATE KEY-----\n",
+//   "client_email": "firebase-adminsdk-2fl6i@smart-pay-e221a.iam.gserviceaccount.com",
+//   "client_id": "102588054882355611768",
+//   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+//   "token_uri": "https://oauth2.googleapis.com/token",
+//   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+//   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2fl6i%40smart-pay-e221a.iam.gserviceaccount.com"
+// }
