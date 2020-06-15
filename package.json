@@ -1,0 +1,19 @@
+{
+  "name": "firebase-to-mysql",
+  "version": "1.0.0",
+  "description": "firebase data to mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "firebase",
+    "mysql"
+  ],
+  "author": "hacktordeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.12.1",
+    "mysql": "^2.18.1"
+  }
+}
